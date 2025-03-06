@@ -1,0 +1,173 @@
+# Portuguese (Brazil) translations for coletor-de-nomes
+msgid ""
+msgstr ""
+"Project-Id-Version: Coletor de Nomes 0.1.0\n"
+"POT-Creation-Date: 2025-03-05 12:00-0300\n"
+"PO-Revision-Date: 2025-03-05 17:05-0300\n"
+"Last-Translator: HermesRoot\n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+# Menu
+msgid "New Scan"
+msgstr "Nova Varredura"
+
+msgid "Save As..."
+msgstr "Salvar Como..."
+
+msgid "View Current Log"
+msgstr "Ver Log Atual"
+
+msgid "Exit"
+msgstr "Sair"
+
+msgid "File"
+msgstr "Arquivo"
+
+msgid "Set Default Extensions..."
+msgstr "Definir Extensões Padrão..."
+
+msgid "Set Default Save Location..."
+msgstr "Definir Local Padrão para Salvar..."
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "How to Use"
+msgstr "Como Usar"
+
+msgid "About..."
+msgstr "Sobre..."
+
+msgid "Help"
+msgstr "Ajuda"
+
+# Labels, buttons, tooltips
+msgid "Filter Extensions (comma-separated, e.g., .txt,.jpg)"
+msgstr "Filtrar Extensões (separadas por vírgula, ex: .txt,.jpg)"
+
+msgid "Separate extensions with commas, e.g., .txt, .jpg"
+msgstr "Separe as extensões com vírgulas, ex: .txt, .jpg"
+
+msgid "Include Subfolders"
+msgstr "Incluir Subpastas"
+
+msgid "Includes files from all subfolders of the selected folder"
+msgstr "Inclui arquivos de todas as subpastas da pasta selecionada"
+
+msgid "Include Folder Names"
+msgstr "Incluir Nomes de Pastas"
+
+msgid "Adds folder names to the output file"
+msgstr "Adiciona os nomes das pastas no arquivo de saída"
+
+msgid "Selected Folder: None"
+msgstr "Pasta Selecionada: Nenhuma"
+
+msgid "Scan Folder"
+msgstr "Escanear Pasta"
+
+msgid "Save file list as"
+msgstr "Salvar lista de arquivos como"
+
+msgid "Error saving settings: {}"
+msgstr "Erro ao salvar configurações: {}"
+
+msgid "Error"
+msgstr "Erro"
+
+msgid ""
+"File Name Collector\n"
+"by HermesRoot\n"
+"Version: 0.1.0"
+msgstr ""
+"Coletor de Nomes de Arquivos\n"
+"por HermesRoot\n"
+"Versão: 0.1.0"
+
+msgid "About"
+msgstr "Sobre"
+
+msgid "Enter default extensions (e.g., .txt,.jpg):"
+msgstr "Digite as extensões padrão (ex: .txt,.jpg):"
+
+msgid "Set Default Extensions"
+msgstr "Definir Extensões Padrão"
+
+msgid "Select default save directory"
+msgstr "Selecionar diretório padrão para salvar"
+
+msgid "Select a folder"
+msgstr "Selecionar uma pasta"
+
+msgid "Save file list"
+msgstr "Salvar lista de arquivos"
+
+msgid "Text files (*.txt)|*.txt"
+msgstr "Arquivos de texto (*.txt)|*.txt"
+
+msgid "Invalid extensions: {}. All must start with '.'"
+msgstr "Extensões inválidas: {}. Todas devem começar com '.'"
+
+msgid "Permission denied accessing folder."
+msgstr "Permissão negada ao acessar a pasta."
+
+msgid "Error scanning: {}"
+msgstr "Erro ao escanear: {}"
+
+msgid "Error processing: {}"
+msgstr "Erro ao processar: {}"
+
+msgid "📁 Folder Names\n"
+msgstr "📁 Nomes de Pastas\n"
+
+msgid "📄 File Names\n"
+msgstr "📄 Nomes de Arquivos\n"
+
+msgid "📊 Summary\n"
+msgstr "📊 Resumo\n"
+
+msgid "Total Folders: {}\n"
+msgstr "Total de Pastas: {}\n"
+
+msgid "Total Files: {}\n"
+msgstr "Total de Arquivos: {}\n"
+
+msgid "List saved to {}\n"
+msgstr "Lista salva em {}\n"
+
+msgid "Completed"
+msgstr "Concluído"
+
+msgid "Saved to {}"
+msgstr "Salvo em {}"
+
+msgid ""
+"How to Use File Name Collector:\n"
+"\n"
+"1. Click 'Scan Folder' to choose a folder.\n"
+"2. Optional: Enter extensions (e.g., .txt,.jpg) to filter files.\n"
+"3. Check 'Include Subfolders' to scan subdirectories.\n"
+"4. Check 'Include Folder Names' to list folders.\n"
+"5. Choose where to save the output file.\n"
+"6. View results in the window or generated file.\n"
+"\n"
+"Use 'Settings' to set defaults and 'Save As...' to create copies of the result."
+msgstr ""
+"Como Usar o Coletor de Nomes de Arquivos:\n"
+"\n"
+"1. Clique em 'Escanear Pasta' para escolher uma pasta.\n"
+"2. Opcional: Digite as extensões (ex: .txt,.jpg) para filtrar arquivos.\n"
+"3. Marque 'Incluir Subpastas' para escanear subdiretórios.\n"
+"4. Marque 'Incluir Nomes de Pastas' para listar pastas.\n"
+"5. Escolha onde salvar o arquivo de saída.\n"
+"6. Veja os resultados na janela ou no arquivo gerado.\n"
+"\n"
+"Use 'Configurações' para definir valores padrões e 'Salvar Como...' para criar cópias do resultado."

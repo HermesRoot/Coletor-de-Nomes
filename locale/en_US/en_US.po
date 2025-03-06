@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: File Name Collector 0.1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+# Menu
+msgid "Nova Varredura"
+msgstr "New Scan"
+
+msgid "Salvar Como..."
+msgstr "Save As..."
+
+msgid "Ver Log Atual"
+msgstr "View Current Log"
+
+msgid "Sair"
+msgstr "Exit"
+
+msgid "Arquivo"
+msgstr "File"
+
+msgid "Definir Extensões Padrão..."
+msgstr "Set Default Extensions..."
+
+msgid "Definir Local Padrão para Salvar..."
+msgstr "Set Default Save Location..."
+
+msgid "Idioma"
+msgstr "Language"
+
+msgid "Configurações"
+msgstr "Settings"
+
+msgid "Como Usar"
+msgstr "How to Use"
+
+msgid "Sobre..."
+msgstr "About..."
+
+msgid "Ajuda"
+msgstr "Help"
+
+# Labels, buttons, tooltips
+msgid "Filtrar Extensões (separadas por vírgula, ex: .txt,.jpg)"
+msgstr "Filter Extensions (comma-separated, e.g., .txt,.jpg)"
+
+msgid "Separe as extensões com vírgulas, ex: .txt, .jpg"
+msgstr "Separate extensions with commas, e.g., .txt, .jpg"
+
+msgid "Incluir Subpastas"
+msgstr "Include Subfolders"
+
+msgid "Inclui arquivos de todas as subpastas da pasta selecionada"
+msgstr "Includes files from all subfolders of the selected folder"
+
+msgid "Incluir Nomes de Pastas"
+msgstr "Include Folder Names"
+
+msgid "Adiciona os nomes das pastas no arquivo de saída"
+msgstr "Adds folder names to the output file"
+
+msgid "Pasta Selecionada: Nenhuma"
+msgstr "Selected Folder: None"
+
+msgid "Escanear Pasta"
+msgstr "Scan Folder"
+
+msgid "Salvar lista de arquivos como"
+msgstr "Save file list as"
+
+msgid "Erro ao salvar configurações: {}"
+msgstr "Error saving settings: {}"
+
+msgid "Erro"
+msgstr "Error"
+
+msgid ""
+"Coletor de Nomes de Arquivos\n"
+"por HermesRoot\n"
+"Versão: 0.1.0"
+msgstr ""
+"File Name Collector\n"
+"by HermesRoot\n"
+"Version: 0.1.0"
+
+msgid "Sobre"
+msgstr "About"
+
+msgid "Digite as extensões padrão (ex: .txt,.jpg):"
+msgstr "Enter default extensions (e.g., .txt,.jpg):"
+
+msgid "Definir Extensões Padrão"
+msgstr "Set Default Extensions"
+
+msgid "Selecionar diretório padrão para salvar"
+msgstr "Select default save directory"
+
+msgid "Selecionar uma pasta"
+msgstr "Select a folder"
+
+msgid "Salvar lista de arquivos"
+msgstr "Save file list"
+
+msgid "Arquivos de texto (*.txt)|*.txt"
+msgstr "Text files (*.txt)|*.txt"
+
+msgid "Extensões inválidas: {}. Todas devem começar com '.'"
+msgstr "Invalid extensions: {}. All must start with '.'"
+
+msgid "Permissão negada ao acessar a pasta."
+msgstr "Permission denied accessing folder."
+
+msgid "Erro ao escanear: {}"
+msgstr "Error scanning: {}"
+
+msgid "Erro ao processar: {}"
+msgstr "Error processing: {}"
+
+msgid "📁 Nomes de Pastas\n"
+msgstr "📁 Folder Names\n"
+
+msgid "📄 Nomes de Arquivos\n"
+msgstr "📄 File Names\n"
+
+msgid "📊 Resumo\n"
+msgstr "📊 Summary\n"
+
+msgid "Total de Pastas: {}\n"
+msgstr "Total Folders: {}\n"
+
+msgid "Total de Arquivos: {}\n"
+msgstr "Total Files: {}\n"
+
+msgid "Lista salva em {}\n"
+msgstr "List saved to {}\n"
+
+msgid "Concluído"
+msgstr "Completed"
+
+msgid "Salvo em {}"
+msgstr "Saved to {}"
+
+msgid ""
+"Como Usar o Coletor de Nomes de Arquivos:\n"
+"\n"
+"1. Clique em 'Escanear Pasta' para escolher uma pasta.\n"
+"2. Opcional: Digite as extensões (ex: .txt,.jpg) para filtrar arquivos.\n"
+"3. Marque 'Incluir Subpastas' para escanear subdiretórios.\n"
+"4. Marque 'Incluir Nomes de Pastas' para listar pastas.\n"
+"5. Escolha onde salvar o arquivo de saída.\n"
+"6. Veja os resultados na janela ou no arquivo gerado.\n"
+"\n"
+"Use 'Configurações' para definir valores padrões e 'Salvar Como...' para criar cópias do resultado."
+msgstr ""
+"How to Use File Name Collector:\n"
+"\n"
+"1. Click 'Scan Folder' to choose a folder.\n"
+"2. Optional: Enter extensions (e.g., .txt,.jpg) to filter files.\n"
+"3. Check 'Include Subfolders' to scan subdirectories.\n"
+"4. Check 'Include Folder Names' to list folders.\n"
+"5. Choose where to save the output file.\n"
+"6. View results in the window or generated file.\n"
+"\n"
+"Use 'Settings' to set defaults and 'Save As...' to create copies of the result."
