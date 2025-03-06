@@ -3,8 +3,7 @@
 **File Name Collector** é uma aplicação desktop desenvolvida em **Python** com **wxPython** que permite coletar e salvar a lista de nomes de arquivos (e opcionalmente pastas) de uma diretoria.
 
 ## 🖥️ Captura de Tela
-![Screenshot do Coletor-de-Nomes](https://raw.githubusercontent.com/HermesRoot/Coletor-de-Nomes/main/screenshot.jpg
-)
+![Screenshot do Coletor-de-Nomes](https://raw.githubusercontent.com/HermesRoot/Coletor-de-Nomes/refs/heads/main/screenshot.jpg)
 
 ## ✨ Recursos
 
