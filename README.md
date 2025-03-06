@@ -1,8 +1,10 @@
 # File Name Collector
 
-**File Name Collector** é uma aplicação desktop desenvolvida em **Python** com **wxPython** que permite coletar e salvar a lista de nomes de arquivos (e opcionalmente pastas) de uma diretoria. Suporta múltiplos idiomas via arquivos de tradução `.mo`.
+**File Name Collector** é uma aplicação desktop desenvolvida em **Python** com **wxPython** que permite coletar e salvar a lista de nomes de arquivos (e opcionalmente pastas) de uma diretoria.
 
----
+## 🖥️ Captura de Tela
+![Screenshot do Coletor-de-Nomes](https://raw.githubusercontent.com/HermesRoot/Coletor-de-Nomes/main/screenshot.jpg
+)
 
 ## ✨ Recursos
 
@@ -14,8 +16,6 @@
 - Interface gráfica amigável.
 - Suporte a múltiplos idiomas (`pt_BR` e `en_US`).
 - Configuração persistente via `config.json`.
-
----
 
 ## 🛠️ Instalação
 
@@ -32,10 +32,8 @@
 
 3. **Execute o programa**:
     ```bash
-    python main.py
+    python coletor-de-nomes.py
     ```
-
----
 
 ## 📂 Como usar
 
@@ -46,8 +44,6 @@
 5. Escolha onde deseja salvar a lista gerada.
 6. Veja os resultados na tela e no arquivo gerado.
 
----
-
 ## ⚙️ Configurações
 
 As preferências são salvas no arquivo `config.json`, incluindo:
@@ -56,8 +52,6 @@ As preferências são salvas no arquivo `config.json`, incluindo:
 - Último diretório salvo.
 - Idioma selecionado.
 - Diretório padrão de salvamento.
-
----
 
 ## 🌐 Idiomas
 
@@ -72,16 +66,12 @@ locale/ ├── pt_BR/ │ └── pt_BR.mo └── en_US/ └── en_US
 Você pode alternar o idioma pelo menu:  
 `Settings -> Language -> [Português | English]`
 
----
+## 📝 Licença
 
-## 📄 Licença
-
-Este projeto é licenciado sob a **MIT License**.
-
----
+Este projeto está licenciado sob a licença **MIT** — veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ## 👤 Autor
 
-- **HermesRoot**
+Desenvolvido por **HermesRoot**.  
 
 
